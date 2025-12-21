@@ -1,4 +1,4 @@
-# gas-portofolio-settle_expense
+# gas-portofolio-settle_expense　経費精算フォーム → 台帳自動転記
 経費精算申請用Googleフォームに入力すると経費の仕訳台帳（スプレッドシート）へ自動転記するスクリプト
 
 ## 想定業務
